@@ -1,3 +1,4 @@
+chrome.browserAction.setBadgeText({ text: 'OFF'});
 //Listening for message
 chrome.extension.onRequest.addListener(function(request, sender) {
     returnMessage(request.message)
@@ -10,7 +11,7 @@ function returnMessage(messageToReturn) {
     });
 }
 
-var enable=true;
+var enable=false;
 chrome.browserAction.onClicked.addListener(function (tab) {
     enable = enable ? false : true;
     if(enable){
