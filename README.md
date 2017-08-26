@@ -2,6 +2,6 @@ Extension that replaces the entire title of Youtube video with "No Spoilers!" so
 
 Open Source. Do what ever you want. 
 
-To get the extension, download "NoSpoiler.crx", open Chrome and enter "chrome://extensions/" in the search bar (this should show all your current extensions), then drag "NoSpoilers.crx" into the chrome://extensions/ page. Confirm the permissions of the app and you're good to go. 
+To get the extension on the chrome web store: https://chrome.google.com/webstore/detail/no-spoilers/cebnncddmahdjbdpoknoplinfdpjnhoe?utm_source=chrome-app-launcher-info-dialog
 
 Default state is off, click the NS logo to turn the extension on and block YouTube titles.
