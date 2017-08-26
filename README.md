@@ -1,1 +1,3 @@
-This is your Chrome extension which replaces a word or phrase with a different word or phrase. 
+Extension that replaces the entire title of Youtube video with "No Spoilers!" so spoiler titles can be avoided. 
+
+Open Source. Do what ever you want. 
